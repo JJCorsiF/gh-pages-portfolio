@@ -1,0 +1,17 @@
+{
+  "name": "meu-portfolio",
+  "packageManager": "yarn@3.2.3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d portfolio",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jjcorsif",
+  "license": "ISC",
+  "homepage": "https://jjcorsif.github.io/gh-pages-portfolio",
+  "dependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
